@@ -1,3 +1,12 @@
 #тинькоф журнал
+0.0.0.0 journal.tinkoff.ru
 0.0.0.0 core.tinkoffjournal.ru
 0.0.0.0 scribe.journal.tinkoff.ru
+0.0.0.0 urania.journal.tinkoff.ru
+
+0.0.0.0 static-cdn.tinkoffjournal.ru
+0.0.0.0 static2.tinkoffjournal.ru
+
+0.0.0.0 opis-cdn.tinkoffjournal.ru
+0.0.0.0 social.journal.tinkoff.ru
+0.0.0.0 sentry2.tjournal.tech
