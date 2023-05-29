@@ -10,3 +10,4 @@ Blocked:
 - тонкости туризма
 - РИАМО
 - sakh online
+- cxid
