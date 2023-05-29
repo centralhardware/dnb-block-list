@@ -12,3 +12,4 @@ Blocked:
 - sakh online
 - cxid
 - дача
+- точка
