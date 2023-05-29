@@ -13,3 +13,4 @@ Blocked:
 - cxid
 - дача
 - точка
+- tv mag 
