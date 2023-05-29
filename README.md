@@ -16,3 +16,4 @@ Blocked:
 - tv mag 
 - vologda poisk
 - be(in) crypto 
+- vk
