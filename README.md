@@ -17,3 +17,4 @@ Blocked:
 - vologda poisk
 - be(in) crypto 
 - vk
+- авиация россии
