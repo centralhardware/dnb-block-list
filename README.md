@@ -23,3 +23,4 @@ Blocked:
 - форпост севастопль
 - минфин
 - hotnews
+- sm news
